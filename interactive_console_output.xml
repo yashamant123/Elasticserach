@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.12.1 on win32)" generated="20240212 10:43:50.208" rpa="false" schemaversion="4">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\SPUGE\.vscode\extensions\robocorp.robotframework-lsp-1.11.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Open Browser To Login Page">
+<msg timestamp="20240212 10:43:51.179" level="FAIL">No keyword with name 'Open Browser To Login Page' found.</msg>
+<status status="FAIL" starttime="20240212 10:43:51.179" endtime="20240212 10:43:51.179"/>
+</kw>
+<status status="PASS" starttime="20240212 10:43:50.252" endtime="20240212 10:43:57.598"/>
+</kw>
+<status status="PASS" starttime="20240212 10:43:50.252" endtime="20240212 10:43:57.598"/>
+</test>
+<status status="PASS" starttime="20240212 10:43:50.211" endtime="20240212 10:43:57.604"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
